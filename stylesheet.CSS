@@ -1,0 +1,17 @@
+#first_font{
+	font-family: 'Balthazar', serif;
+}
+
+
+#second_font{
+	font-family: 'Lily Script One', cursive;
+
+}
+
+#third_font{
+	font-family: 'Mystery Quest', cursive;
+}
+
+body{
+	background-color:yellow;
+}
